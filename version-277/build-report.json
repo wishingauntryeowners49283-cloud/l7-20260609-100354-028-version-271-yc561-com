@@ -1,0 +1,25 @@
+{
+  "movies_parsed": 2000,
+  "html_files": 2019,
+  "detail_files": 2000,
+  "category_files": 12,
+  "category_total": 2000,
+  "player_pages": 2000,
+  "baidu_missing": [],
+  "forbidden_hits": [],
+  "image_files_in_zip_tree": [],
+  "category_counts": {
+    "国产好剧": 169,
+    "日韩精选": 167,
+    "欧美大片": 169,
+    "电影片库": 169,
+    "剧集连看": 168,
+    "动画动漫": 147,
+    "剧情文艺": 168,
+    "爱情喜剧": 168,
+    "悬疑犯罪": 169,
+    "动作科幻": 169,
+    "恐怖惊悚": 169,
+    "家庭治愈": 168
+  }
+}
